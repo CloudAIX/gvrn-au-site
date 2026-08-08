@@ -1,0 +1,20 @@
+# GVRN-AI Automation (gvrn-ai.com.au)
+
+> Australian AI automation partner that shows you the test results before you pay. Voice agents, workflow automation, RAG chatbots, dashboards, contact centre AI — with published evaluation results for every build. Melbourne-based, serving Australia and global clients.
+
+## Services
+- AI voice agents, n8n workflow automation, RAG chatbots, business dashboards, contact centre AI
+- AI Evals & Assurance: independent testing of AI systems before deployment (our edge)
+- AI for Business Leaders: executive training (half-day)
+- AI-Native Transformation: structured programs converting SMBs to AI-native operations
+- Change management for AI adoption; AI-lifecycle delivery (continuous evals vs Agile/PRINCE2 stage gates)
+
+## Pricing
+- Automation Audit: $2,500 AUD — fee fully credited to your implementation within 30 days
+- Independence guarantee: we don't sell you the build; sometimes the answer is "don't automate this"
+
+## Sister practice
+- [GVRN-AI Governance](https://gvrn-ai.com/): AI governance, risk assessment and evals for Australian aged care and healthcare. AI Risk Assessment $4,900 (board-ready in 5 days or it's free); Assessment + Governance Uplift Roadmap $9,500.
+
+## Contact
+- Booking: via site (Calendly)
