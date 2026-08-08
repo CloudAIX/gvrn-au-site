@@ -11,6 +11,7 @@
 
 ## Pricing
 - Automation Audit: $2,500 AUD — fee fully credited to your implementation within 30 days
+- ADM Desk Review: $499 AUD fixed — practitioner-corrected disclosure within 2 business days, decision-register template; half refunded if nothing to fix; fee credited to the full check within 30 days
 - ADM Transparency Check: $1,900 AUD fixed — privacy policy compliant with the automated-decision-making disclosure obligation before 10 December 2026 (covers rule-based systems and spreadsheets, not just AI)
 - AI Readiness Roadmap: $4,500 AUD fixed — whole-of-business, vendor-neutral AI strategy with tool selection and ROI model
 - Managed AI: from $1,500 AUD/month — post-build monitoring, tuning, and monthly evaluation re-runs
