@@ -18,6 +18,13 @@
 - Grant-eligible pathways: Victorian and federal programs subsidise AI adoption planning — ask
 - Independence guarantee: we don't sell you the build; sometimes the answer is "don't automate this"
 
+## Free tools
+- [ADM Disclosure Generator](https://gvrn-ai.com.au/adm.html): free, browser-only generator producing draft privacy-policy wording for the Privacy Act automated-decision-making transparency obligation (deadline 10 December 2026). Six questions; nothing entered leaves the browser.
+
+## Services (additional)
+- Embedded AI Lead: fractional forward-deployed AI leadership inside your team 1-2 days/week, from $3,500/month
+- Copilot & Microsoft 365 enablement: Copilot, Power Automate and agents wired into real workflows with governance guardrails
+
 ## Sister practice
 - [GVRN-AI Governance](https://gvrn-ai.com/): AI governance, risk assessment and evals for Australian aged care and healthcare. AI Risk Assessment $4,900 (board-ready in 5 days or it's free); Assessment + Governance Uplift Roadmap $9,500.
 
