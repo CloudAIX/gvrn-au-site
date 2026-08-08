@@ -11,6 +11,11 @@
 
 ## Pricing
 - Automation Audit: $2,500 AUD — fee fully credited to your implementation within 30 days
+- ADM Transparency Check: $1,900 AUD fixed — privacy policy compliant with the automated-decision-making disclosure obligation before 10 December 2026 (covers rule-based systems and spreadsheets, not just AI)
+- AI Readiness Roadmap: $4,500 AUD fixed — whole-of-business, vendor-neutral AI strategy with tool selection and ROI model
+- Managed AI: from $1,500 AUD/month — post-build monitoring, tuning, and monthly evaluation re-runs
+- AI Training Ladder: staff foundations, role-based workshops, executive enablement; prompt playbooks included
+- Grant-eligible pathways: Victorian and federal programs subsidise AI adoption planning — ask
 - Independence guarantee: we don't sell you the build; sometimes the answer is "don't automate this"
 
 ## Sister practice
